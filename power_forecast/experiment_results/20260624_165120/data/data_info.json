@@ -1,0 +1,38 @@
+{
+  "n_features": 13,
+  "short_train_shape": [
+    1003,
+    90,
+    13
+  ],
+  "short_test_shape": [
+    251,
+    90,
+    13
+  ],
+  "long_train_shape": [
+    783,
+    90,
+    13
+  ],
+  "long_test_shape": [
+    196,
+    90,
+    13
+  ],
+  "feature_names": [
+    "Global_active_power",
+    "Global_reactive_power",
+    "Voltage",
+    "Global_intensity",
+    "Sub_metering_1",
+    "Sub_metering_2",
+    "Sub_metering_3",
+    "Sub_metering_remainder",
+    "RR",
+    "NBJRR1",
+    "NBJRR5",
+    "NBJRR10",
+    "NBJBROU"
+  ]
+}
