@@ -1,0 +1,23 @@
+{
+  "n_features": 19,
+  "short_train_shape": [
+    1003,
+    90,
+    19
+  ],
+  "short_test_shape": [
+    251,
+    90,
+    19
+  ],
+  "long_train_shape": [
+    783,
+    90,
+    19
+  ],
+  "long_test_shape": [
+    196,
+    90,
+    19
+  ]
+}
